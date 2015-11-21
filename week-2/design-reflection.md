@@ -1,6 +1,5 @@
 ![Alt text](imgs/site-map.png "My Site Map")
 
-
   -What are the 6 Phases of Web Design?
   -What is your site's primary goal or purpose? What kind of content will your site feature?
   -What is your target audience's interests and how do you see your site addressing them?
