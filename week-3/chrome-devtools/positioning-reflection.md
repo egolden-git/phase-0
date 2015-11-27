@@ -1,1 +1,1 @@
-![alt text](https://
+![alt text](https://github.com/egolden-git/phase-0/blob/master/week-3/chrome-devtools/imgs/Exercise1.png "Exercise 1")
