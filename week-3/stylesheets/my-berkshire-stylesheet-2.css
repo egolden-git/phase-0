@@ -9,7 +9,6 @@ a {
 a:visited {
     color:#ff0000;
 }
-
 h1 {
     text-align:center;
     font-weight:bold;
@@ -26,8 +25,22 @@ h1 {
 .BH    {
     font-size:175%;
 }
+.imgcenter {
+    display: block;
+    text-align:center;
+}
 .geico    {
     text-align:center;
     display:block;
     font-size:50%;
+}
+.notes    {
+    display:block;
+    font-size:60%;
+}
+.horzline {
+     color: black;
+     background-color: black;
+     width: 100%;
+     height: 2px;
 }
