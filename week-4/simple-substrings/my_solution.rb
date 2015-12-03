@@ -1,7 +1,6 @@
 # Simple Substrings
 
-# I worked on this challenge [by myself, with: ].
-
+# I worked on this challenge [with: Donald Lang ].
 
 # Your Solution Below
 
