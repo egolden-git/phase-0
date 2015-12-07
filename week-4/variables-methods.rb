@@ -19,3 +19,7 @@ print "This is a bigger and better number " + num.to_s + "!"
 #How do you run a ruby program from the command line? By typing 'ruby <file path>' on the command line.
 #How do you run an RSpec file from the command line? By typing 'rspec <file path to rspec file' on the command line.  RSpec requires RSpec file to execute and validate code.
 #What was confusing about this material? What made sense? The confusing part was the errors and trying to decipher what was happening.
+
+#Links to Challenges:
+#https://github.com/egolden-git/phase-0/tree/master/week-4/address/format-address
+#https://github.com/egolden-git/phase-0/blob/master/week-4/math/math-methods/my_solution.rb
