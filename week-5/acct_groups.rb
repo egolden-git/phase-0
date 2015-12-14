@@ -5,7 +5,7 @@
 #   iterated through names until all names were added to a group.
 
 # Create people array
-# Divide people array into arrays of 2 people each
+# Divide people array into arrays of 4 people each
 
 people = ["Sharon Claitor", "Everett Golden", "Alex Forger", "Jordan Fox", "Donald Lang", "Gary Wong", "Kevin Huang", "Max Davis"]
 
