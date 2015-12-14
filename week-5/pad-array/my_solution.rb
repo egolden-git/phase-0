@@ -1,6 +1,6 @@
 # Pad an Array
 
-# I worked on this challenge [by myself, with: ]
+# I worked on this challenge [ with: Sharon Claitor ]
 
 # I spent [] hours on this challenge.
 
