@@ -26,5 +26,9 @@ How was this challenge? Did you get a good review of some of the basics? This ch
 
 Links:
 https://github.com/egolden-git/phase-0/blob/master/week-4/defining-variables.rb
+
+
 https://github.com/egolden-git/phase-0/blob/master/week-4/simple-string.rb
+
+
 https://github.com/egolden-git/phase-0/blob/master/week-4/basic-math.rb
