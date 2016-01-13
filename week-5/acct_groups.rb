@@ -7,10 +7,20 @@
 # Create people array
 # Divide people array into arrays of 4 people each
 
-people = ["Sharon Claitor", "Everett Golden", "Alex Forger", "Jordan Fox", "Donald Lang", "Gary Wong", "Kevin Huang", "Max Davis"]
+people = ["Sharon", "Everett", "Alex", "Jordan", "Donald", "Gary", "Kevin", "Max", "Tim", "Dan", "Rob"]
+
 
 def groups(list)
-  list.each_slice(4).to_a
+  list_length = list.length
+  if list_length <= 5
+    return list
+    elsif list_length % 5 == 0 || list_length % 5 == 4 || list_length % 5 == 3
+      return list.each_slice(5).to_a
+    elsif list_length % 4 == 0 || list_length % 4 == 3
+      return list.each_slice(4).to_a
+    elsif list_length % 3 == 0
+      return list.each_slice(3).to_a
+  end
 end
 
 p groups(people)
